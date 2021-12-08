@@ -117,3 +117,5 @@ R --no-save < datashield_installer_basic.R
 ## Contact
 
 Soumya Banerjee
+
+sb2333@cam.ac.uk
