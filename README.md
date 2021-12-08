@@ -15,6 +15,7 @@ Miscellaneous tools for use in DataSHIELD
 
 `baby_steps.R` First coding project in DataSHIELD
 
+`teaching_resources.md` Teaching resources using DataSHIELD
 
 
 ## Contact
