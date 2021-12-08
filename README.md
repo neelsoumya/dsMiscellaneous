@@ -57,6 +57,15 @@ R --no-save < datashield_installer_basic.R
 	
 		* https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/931069953/Installation+Training+Hub-+DataSHIELD+v6
 
+
+    * Virtual Box VM download
+
+             * https://www.virtualbox.org/wiki/Downloads 
+
+    * Ubuntu ISO image
+
+             * https://ubuntu.com/download/desktop
+
     * Installation of development VM
 
              * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1658093595/RStudio+Server+based+Development+VM
