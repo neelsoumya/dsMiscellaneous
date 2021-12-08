@@ -1,0 +1,42 @@
+Instructions for setting up a new study in the Opal server
+
+Opal javascript code
+
+https://opaldoc.obiba.org/en/latest/magma-user-guide/value/value.html
+
+1. Have a data dictionary ready
+
+    see projects/meat_project/meat_data_dictionary2.xlsx
+
+2. Find a way of splitting the data by country using R - can either use the CSV or Stata file. 
+The advantage of the Stata file might be that it preserves some metadata for uploading into Opal.
+
+Use R script meat_study.R
+
+3. Upload the data dictionary, data (in Stata format) and create the table. Instructions are here:
+
+https://gitlab.inesctec.pt/wp4-recap/wp4_workshop/-/wikis/opal
+
+    a. Upload the data
+    b. Upload the data dictionary as an xls file (this should have harmonization Java code)
+    c. Click on import data to import data and create a table
+    d. Click on create view to link this table to a view. This will also ask for data dictionary
+        which has hamronization script. This will ultimately create a harmonized view.
+
+4. Create a view by 
+
+    a. selecting the table
+    b. selecting the data dictionary xls file. The file is called meat-harm-dictionary.xlsx
+       This will also have java script code for data harmonization.
+          
+   This will create a harmonized view.     
+
+5.  If the categories in the harmonised data are lost then
+    a. Go to each view, 
+    b. make sure you are looking at Dictionary,
+    c. Click + Add Variables,
+    d. Choose Add/update variables from dictionary, 
+    e. Choose the file meat_harm-dictionary2.xlsx
+
+6. Connect to Opal server from R Studio and write analyst code. See survival_testing_code.R
+
