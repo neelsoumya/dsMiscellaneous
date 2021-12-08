@@ -17,6 +17,8 @@ Miscellaneous tools for use in DataSHIELD
 
 `teaching_resources.md` Teaching resources using DataSHIELD
 
+`opal_instructions.txt` Instructions for setting up and using Opal server (data warehouse)
+
 
 ## Installation
 
