@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Miscellaneous tools for use in DataSHIELD
+Miscellaneous tools for use in DataSHIELD. DataSHIELD is a platform for privacy preserving analysis.
 
 
 ## Files
