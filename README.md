@@ -32,7 +32,7 @@ R --no-save < datashield_installer_basic.R
 
 
 
-## Instructions for using DataSHIELD
+## Instructions for using DataSHIELD as a developer
 
 
 * opal_instructions.txt
@@ -42,11 +42,6 @@ R --no-save < datashield_installer_basic.R
 	* Opal javascript code
 	
 		* https://opaldoc.obiba.org/en/latest/magma-user-guide/value/value.html
-	
-
-* tests/environment_confusion.rmd and environment_confusion.pdf
-
-	* my notes on environments in R and how to pass functions as arguments to functions
 	
 
 * Other resources about DataSHIELD and Opal
