@@ -116,3 +116,13 @@ R --no-save < datashield_installer_basic.R
 Soumya Banerjee
 
 sb2333@cam.ac.uk
+
+
+## Citation
+
+Please cite the following DOI
+
+10.5281/zenodo.5772830
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5772831.svg)](https://doi.org/10.5281/zenodo.5772831)
+
