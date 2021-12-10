@@ -120,7 +120,7 @@ sb2333@cam.ac.uk
 
 ## Citation
 
-Please cite the following DOI
+If you find this helpful, please cite the following DOI
 
 10.5281/zenodo.5772830
 
