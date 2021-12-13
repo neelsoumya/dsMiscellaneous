@@ -26,12 +26,28 @@ https://github.com/datashield
 
 ## Installation
 
+Install Ubuntu
+
+   * https://ubuntu.com/download/desktop
+
+Run `installer_unix.sh`
+
+```
+chmod 7555 installer_unix.sh
+
+./installer_unix.sh
+
+```
+
+Run the following from the terminal
+
 ```r
 
 R --no-save < datashield_installer_basic.R
 
 ```
 
+Go to Firefox, and type localhost:7575 to go to R Studio server
 
 
 ## Instructions for using DataSHIELD as a developer
