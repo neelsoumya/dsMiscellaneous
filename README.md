@@ -47,7 +47,8 @@ R --no-save < datashield_installer_basic.R
 
 ```
 
-Go to Firefox, and type localhost:7575 to go to R Studio server
+Go to Firefox, and type localhost:8787 to go to R Studio server
+
 
 
 ## Instructions for using DataSHIELD as a developer
