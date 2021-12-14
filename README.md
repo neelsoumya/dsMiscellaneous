@@ -51,6 +51,19 @@ Go to Firefox, and type localhost:8787 to go to R Studio server
 
 
 
+## Usage
+
+From the Terminal run the following command
+
+```r
+R --no-save < baby_steps.R
+
+```
+
+or in R Studio open and run the file `baby_steps.R`
+
+
+
 ## Instructions for using DataSHIELD as a developer
 
 
