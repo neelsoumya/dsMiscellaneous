@@ -84,48 +84,48 @@ Go to Firefox, and type localhost:8787 to go to R Studio server
 
     * Installation of development VM
 
-             * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1658093595/RStudio+Server+based+Development+VM
+              https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1658093595/RStudio+Server+based+Development+VM
 
 	* Installation for development environment
 	
-		* https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943461/Getting+started
+		 https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/12943461/Getting+started
 		
 	* Testing and development
 	
-		* https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/735314034/Writing+some+tests
+		 https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/735314034/Writing+some+tests
 		
 	* Git tips and tricks
 	
-		* https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1006633032/GitHub+Bring+edits+from+another+repository+to+your+own
+		 https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1006633032/GitHub+Bring+edits+from+another+repository+to+your+own
 		
 	* Developer tips and tricks
 	
-		* https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/702218241/Developer+Tricks+and+Tips
+		 https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/702218241/Developer+Tricks+and+Tips
 		
-        	* https://isglobal-brge.github.io/resource_bookdown/package-info.html#example-of-datashield-package-development
+        	 https://isglobal-brge.github.io/resource_bookdown/package-info.html#example-of-datashield-package-development
 		
 	* Setting up Opal server and loading data
 	
-		* https://gitlab.inesctec.pt/wp4-recap/wp4_workshop/-/wikis/opal
+		 https://gitlab.inesctec.pt/wp4-recap/wp4_workshop/-/wikis/opal
 	
-	* Creating your own VM
+	* Creating your own VM (Virtual Machine)
 
-                * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/367656962/Vagrant 
+                 https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/367656962/Vagrant 
 	
 	* DataSHIELD repository
 	
-		* https://github.com/datashield	
+		 https://github.com/datashield	
 
-                * https://opaldoc.obiba.org/en/latest/cookbook/index.html
+                 https://opaldoc.obiba.org/en/latest/cookbook/index.html
 	
 
 	* Demo servers
 	
-		* https://opal-demo.obiba.org/
+		 https://opal-demo.obiba.org/
 
-		* username: administrator    password: password	
+		 username: administrator    password: password	
 
-		* https://datashield-demo.obiba.org/
+		 https://datashield-demo.obiba.org/
 
 
 ## Contact
