@@ -60,27 +60,27 @@ Go to Firefox, and type localhost:8787 to go to R Studio server
 
 	* Opal javascript code
 	
-		* https://opaldoc.obiba.org/en/latest/magma-user-guide/value/value.html
+		 https://opaldoc.obiba.org/en/latest/magma-user-guide/value/value.html
 	
 
 * Other resources about DataSHIELD and Opal
 
      * Opal
 
-                * https://opaldoc.obiba.org/en/latest/cookbook/index.html
+                 https://opaldoc.obiba.org/en/latest/cookbook/index.html
 
 	* Installation of virtual machines and DataSHIELD
 	
-		* https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/931069953/Installation+Training+Hub-+DataSHIELD+v6
+	         https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/931069953/Installation+Training+Hub-+DataSHIELD+v6
 
 
     * Virtual Box VM download
 
-             * https://www.virtualbox.org/wiki/Downloads 
+              https://www.virtualbox.org/wiki/Downloads 
 
     * Ubuntu ISO image
 
-             * https://ubuntu.com/download/desktop
+              https://ubuntu.com/download/desktop
 
     * Installation of development VM
 
