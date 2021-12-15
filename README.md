@@ -26,6 +26,10 @@ https://github.com/datashield
 
 ## Installation
 
+Download and install VirtualBox
+
+   * https://www.virtualbox.org/wiki/Downloads 
+
 Install Ubuntu (in Virtual Box if necessary)
 
    * https://ubuntu.com/download/desktop
@@ -49,6 +53,12 @@ R --no-save < datashield_installer_basic.R
 
 Go to Firefox, and type localhost:8787 to go to R Studio server
 
+
+
+Download and install the development Virtual Machine in Virtual Box
+
+   * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1658093595/RStudio+Server+based+Development+VM
+    
 
 
 ## Usage
