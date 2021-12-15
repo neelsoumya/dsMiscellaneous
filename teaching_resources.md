@@ -8,7 +8,7 @@ Teaching resources using DataSHIELD
 
 4) programming
 
-     * Non disclosive federated analysis in R
+     * Non disclosive federated analysis in R (by Patricia Ryser-Welch)
      
           * https://www.youtube.com/watch?v=WpQFCfe1n_Q
           
