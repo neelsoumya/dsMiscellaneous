@@ -26,7 +26,7 @@ https://github.com/datashield
 
 ## Installation
 
-Install Ubuntu
+Install Ubuntu (in Virtual Box if necessary)
 
    * https://ubuntu.com/download/desktop
 
