@@ -51,6 +51,12 @@ R --no-save < datashield_installer_basic.R
 
 ```
 
+Start RStudio Server by typing the following command at the Terminal
+
+```r
+rstudio-server start
+```
+
 Go to Firefox, and type localhost:8787 to go to R Studio server
 
 
