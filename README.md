@@ -36,7 +36,7 @@ Install Ubuntu (in Virtual Box if necessary)
 
 Run `installer_unix.sh`
 
-```
+```r
 chmod 7555 installer_unix.sh
 
 ./installer_unix.sh
@@ -56,6 +56,7 @@ Start RStudio Server by typing the following command at the Terminal
 ```r
 rstudio-server start
 ```
+
 
 Go to Firefox, and type localhost:8787 to go to R Studio server
 
