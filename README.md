@@ -51,6 +51,17 @@ R --no-save < datashield_installer_basic.R
 
 ```
 
+or type R at the terminal and at the R command prompt type the following
+
+```r
+
+install.packages('devtools')
+library(devtools)
+
+devtools::install_github('neelsoumya/dsMiscellaneous')
+
+```
+
 Start RStudio Server by typing the following command at the Terminal
 
 ```r
