@@ -81,9 +81,19 @@ Download and install the development Virtual Machine in Virtual Box
 
 ## Usage
 
+Clone the repository
+
+```r
+git clone https://github.com/neelsoumya/dsMiscellaneous
+
+cd dsMiscellaneous
+
+```
+
 From the Terminal run the following command
 
 ```r
+
 R --no-save < baby_steps.R
 
 ```
