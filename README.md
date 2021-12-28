@@ -34,6 +34,17 @@ Install Ubuntu (in Virtual Box if necessary)
 
    * https://ubuntu.com/download/desktop
 
+
+
+Clone the repository
+
+```r
+git clone https://github.com/neelsoumya/dsMiscellaneous
+
+cd dsMiscellaneous
+
+```
+
 Run `installer_unix.sh`
 
 ```r
@@ -81,14 +92,6 @@ Download and install the development Virtual Machine in Virtual Box
 
 ## Usage
 
-Clone the repository
-
-```r
-git clone https://github.com/neelsoumya/dsMiscellaneous
-
-cd dsMiscellaneous
-
-```
 
 From the Terminal run the following command
 
