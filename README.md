@@ -4,7 +4,9 @@
 
 ## Introduction
 
-`dsMiscellaneous` is a set of miscellaneous development tools for use in DataSHIELD. DataSHIELD is a platform for privacy preserving analysis.
+`dsMiscellaneous` is a set of miscellaneous development tools for use in DataSHIELD. 
+
+DataSHIELD is a platform for privacy preserving analysis.
 
 https://github.com/datashield
 
