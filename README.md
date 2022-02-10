@@ -21,6 +21,18 @@ https://github.com/datashield
 
 `baby_steps.R` First coding project in DataSHIELD
 
+`ds.retStr.R` First client side script in DataSHIELD
+
+             Also see
+	     
+	     https://github.com/neelsoumya/dsBaseClient/blob/test_functions_branch/R/ds.retStr.R
+
+`retStrDS.R` First server side script in DataSHIELD
+
+             Also see
+	     
+	     https://github.com/neelsoumya/dsBase/blob/test_functions_branch/R/retStrDS.R
+
 `testthat.R` Simple R script for using testthat for unit testing
 
 `teaching_resources.md` Teaching resources using DataSHIELD
