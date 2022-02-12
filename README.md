@@ -196,7 +196,7 @@ or in R Studio open and run the file `baby_steps.R`
 
 ## Acknowledgements
 
-We acknowledge the help and support of the DataSHIELD technical team. We are especially grateful to Elaine Smith, Eleanor Hyde, Stuart Wheater, Yannick Marcon, Paul Burton, Demetris Avraam, Patricia Ryser-Welch, Kevin Rue-Albrecht and Wolfgang Viechtbauer for fruitful discussions and feedback.
+We acknowledge the help and support of the DataSHIELD technical team. We are especially grateful to Tom RP Bishop, Elaine Smith, Eleanor Hyde, Stuart Wheater, Yannick Marcon, Paul Burton, Demetris Avraam, Patricia Ryser-Welch, Kevin Rue-Albrecht and Wolfgang Viechtbauer for fruitful discussions and feedback.
 
 ## Contact
 
