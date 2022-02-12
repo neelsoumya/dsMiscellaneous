@@ -21,15 +21,11 @@ https://github.com/datashield
 
 `baby_steps.R` First coding project in DataSHIELD
 
-`ds.retStr.R` First client side script in DataSHIELD
-
-             Also see
+`ds.retStr.R` First client side script to learn coding in DataSHIELD
 	     
 	     https://github.com/neelsoumya/dsBaseClient/blob/test_functions_branch/R/ds.retStr.R
 
-`retStrDS.R` First server side script in DataSHIELD
-
-             Also see
+`retStrDS.R` First server side script to learn coding in DataSHIELD
 	     
 	     https://github.com/neelsoumya/dsBase/blob/test_functions_branch/R/retStrDS.R
 
