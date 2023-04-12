@@ -100,6 +100,9 @@ Download and install the development Virtual Machine in Virtual Box
 
    * https://data2knowledge.atlassian.net/wiki/spaces/DSDEV/pages/1658093595/RStudio+Server+based+Development+VM
     
+Docker for DataSHIELD
+
+* https://wilmarigl.de/?p=424
 
 
 ## Usage
